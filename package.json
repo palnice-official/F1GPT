@@ -10,10 +10,13 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@datastax/astra-db-ts": "^2.0.2",
-    "dotenv": "^17.2.1",
+    "@datastax/astra-db-ts": "^1.5.0",
+    "@google/genai": "^1.13.0",
+    "@langchain/community": "^0.3.50",
+    "dotenv": "^16.4.5",
     "langchain": "^0.3.30",
     "next": "15.4.6",
+    "puppeteer": "^24.16.0",
     "react": "19.1.0",
     "react-dom": "19.1.0",
     "ts-node": "^10.9.2"
